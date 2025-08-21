@@ -21,7 +21,7 @@ h5py>=3.3.0
 tables>=3.6.0
 
 # ECG visualization (from requirements.txt in assignment)
-ecg-plot>=1.0.0
+ecg-plot>=0.2.8
 wfdb>=3.4.0
 
 # Jupyter notebook support
